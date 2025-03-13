@@ -1,4 +1,4 @@
-name: dev
+name: <environment-name>
 channels:
  - defaults
 dependencies:
@@ -7,4 +7,4 @@ dependencies:
 - python-dotenv
 - pip
 - pip:
-  - azure-ai-inference
+  - azure-ai-ml
